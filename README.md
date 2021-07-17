@@ -1,4 +1,4 @@
-## Lading Page | Adote-me
+## Landing Page | Adote-me
 
 > *Desafio #1 Hiring Coders by Gama Academy - Landing Page*
 
