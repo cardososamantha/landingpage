@@ -16,6 +16,7 @@
     --light-slate-blue: #a088ff;
     --pure-white: #fff;
     --dark-gray: #222;
+    --light-green: rgb(95, 240, 160);
 }
 
 html, body {
@@ -151,14 +152,17 @@ form input {
     font-size: 1.2rem;
 }
 
-form input[type="submit"]{
+form .button-1{
+    width: 80%;
+    margin-top: 0.5rem;
     background-color: var(--medium-slate-blue);
     color: var(--pure-white);
     padding: 1rem;
     font-size: 1.4rem;
+    border-radius: 0.5rem;
 }
 
-form input[type="submit"]:hover {
+form .button-1:hover {
     background-color: var(--light-slate-blue);
 }
 
@@ -247,6 +251,4 @@ footer {
         font-size: 1.6rem;
     }
 
-    
-    
 }
